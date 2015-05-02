@@ -1,0 +1,145 @@
+/*Telerik RadInput Metro Skin*/
+
+/*global*/
+
+.RadInput_cloud,
+.RadInputMgr_cloud
+{
+	font:12px "segoe ui",arial,sans-serif;
+}
+
+/*textbox states*/
+
+html body .RadInput_cloud .riTextBox,
+html body .RadInputMgr_cloud
+{
+	border-color:#e5e5e5;
+	background:#fff;
+	color:#000;
+	font:12px "segoe ui",arial,sans-serif;
+}
+
+html body .RadInput_cloud .riEmpty,
+html body .RadInput_Empty_cloud
+{
+	color:#777;
+}
+
+html body .RadInput_cloud .riHover,
+html body .RadInput_Hover_cloud
+{
+	border-color:#767676;
+}
+
+html body .RadInput_cloud .riFocused,
+html body .RadInput_Focused_cloud
+{
+	border-color:#25a0da;
+}
+
+html body .RadInput_cloud .riRead,
+html body .RadInput_Read_cloud
+{
+	border-color:#b0b0b0;
+}
+
+html body .RadInput_cloud .riDisabled,
+html body .RadInput_Disabled_cloud
+{
+	color:#c9c0c0;
+	cursor:default;
+}
+
+html body .RadInput_cloud .riError,
+html body .RadInput_Error_cloud
+{
+	border-color:#de3914;
+	background:#ffe9e9 100% -298px no-repeat url('Input/sprite.gif');
+	color:#de3914;
+}
+
+.RadForm.rfdTextbox .RadInput_cloud .riError[type="text"],
+.RadForm.rfdTextbox .RadInput_Error_cloud[type="text"]
+{
+	border-color:#de3914;
+	background:#fff 100% -298px no-repeat url('Input/sprite.gif');
+	color:#de3914;
+}
+
+html body .RadInput_cloud .riNegative,
+html body .RadInput_Negative_cloud
+{
+	color:#565656;
+}
+
+/*buttons*/
+
+.RadInput_cloud a
+{
+	background:transparent no-repeat url('Input/sprite.gif');
+}
+
+/*go*/
+
+.RadInput_cloud .riBtn a
+{
+	width:20px;
+	height:18px;
+	line-height:18px;
+	background-position:3px 5px;
+}
+
+.RadInput_cloud .riBtn a:hover
+{
+	background-position:3px -45px;
+}
+
+/*spin*/
+
+.RadInput_cloud .riSpin a
+{
+	width:15px;
+	height:7px;
+	line-height:7px;
+}
+
+.RadInput_cloud a.riUp
+{
+	background-position:4px -98px;
+}
+
+.RadInput_cloud a.riUp:hover
+{
+	background-position:4px -148px;
+}
+
+.RadInput_cloud a.riDown
+{
+	background-position:4px -199px;
+}
+
+.RadInput_cloud a.riDown:hover
+{
+	background-position:4px -249px;
+}
+
+/*label*/
+
+.RadInput_cloud .riLabel
+{
+	color:#666;
+}
+
+/*rtl*/
+
+html body .RadInputRTL_cloud .riError,
+html body .RadInputRTL_Error_cloud
+{
+	background-position:3px -298px;
+}
+
+.RadForm.rfdTextbox .RadInputRTL_cloud .riError[type="text"],
+.RadForm.rfdTextbox .RadInputRTL_Error_cloud[type="text"]
+{
+	background-position:3px -298px;
+}

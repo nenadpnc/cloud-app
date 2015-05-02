@@ -1,0 +1,9 @@
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\Domen\bin\Debug\Domen.dll
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\Domen\bin\Debug\Domen.pdb
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\Domen\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\Domen\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\Domen\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\Domen\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\Domen\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\Domen\obj\Debug\Domen.dll
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\Domen\obj\Debug\Domen.pdb

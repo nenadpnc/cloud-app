@@ -1,0 +1,13 @@
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\bin\WebRole1.dll
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\bin\WebRole1.pdb
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\bin\System.Web.Providers.dll
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\obj\Debug\WebRole1.dll
+c:\users\nenad\documents\visual studio 2010\Projects\CloudAplikacija\WebRole1\obj\Debug\WebRole1.pdb
+C:\Users\Nenad\Documents\Visual Studio 2010\Projects\CloudAplikacija\WebRole1\bin\Domen.dll
+C:\Users\Nenad\Documents\Visual Studio 2010\Projects\CloudAplikacija\WebRole1\bin\Domen.pdb
+C:\Users\Nenad\Documents\Visual Studio 2010\Projects\CloudAplikacija\WebRole1\bin\Telerik.Web.UI.xml

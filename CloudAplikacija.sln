@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "CloudAplikacija", "CloudAplikacija\CloudAplikacija.ccproj", "{AD63AF71-80B2-4F4E-97F5-EA121275F3AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{13538067-5F9B-4C4F-8EE2-2ADF8FB8A11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domen", "Domen\Domen.csproj", "{78DACD12-2911-4470-BF67-D2C08960380B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD63AF71-80B2-4F4E-97F5-EA121275F3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD63AF71-80B2-4F4E-97F5-EA121275F3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD63AF71-80B2-4F4E-97F5-EA121275F3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD63AF71-80B2-4F4E-97F5-EA121275F3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13538067-5F9B-4C4F-8EE2-2ADF8FB8A11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13538067-5F9B-4C4F-8EE2-2ADF8FB8A11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13538067-5F9B-4C4F-8EE2-2ADF8FB8A11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13538067-5F9B-4C4F-8EE2-2ADF8FB8A11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DACD12-2911-4470-BF67-D2C08960380B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DACD12-2911-4470-BF67-D2C08960380B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DACD12-2911-4470-BF67-D2C08960380B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DACD12-2911-4470-BF67-D2C08960380B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
